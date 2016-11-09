@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Compro Social feature.
+ */
+
+include_once 'compro_social.features.inc';

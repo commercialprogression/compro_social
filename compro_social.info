@@ -1,0 +1,10 @@
+name = Compro Social
+description = Contains social entity type
+core = 7.x
+package = Features
+version = 7.x-1.0
+dependencies[] = eck
+dependencies[] = features
+features[eck_entity_type][] = social
+features[features_api][] = api:2
+features_exclude[dependencies][eck] = eck
